@@ -1,2 +1,0 @@
-# Optional SPA fallback if redirects are managed outside netlify.toml
-/*    /index.html   200
